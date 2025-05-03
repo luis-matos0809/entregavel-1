@@ -1,0 +1,14 @@
+section {
+    border: 4px solid black;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+img {
+    border: 4px solid white;
+}
